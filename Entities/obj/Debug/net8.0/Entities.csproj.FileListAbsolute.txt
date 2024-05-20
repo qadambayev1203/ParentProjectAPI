@@ -1,0 +1,116 @@
+C:\Users\Admin\source\repos\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\Admin\source\repos\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+C:\Users\Admin\source\repos\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\Admin\source\repos\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\Admin\source\repos\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\Admin\source\repos\TSTUUzSolution\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\Admin\source\repos\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\Admin\source\repos\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+C:\Users\Admin\source\repos\TSTUUzSolution\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\Admin\Desktop\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\Admin\Desktop\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+C:\Users\Admin\Desktop\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+C:\Users\Admin\Desktop\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\TSTUUzSolution\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\Admin\Desktop\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+C:\Users\Admin\Desktop\TSTUUzSolution\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Entities\obj\Debug\net8.0\ref\Entities.dll
+D:\TSTUUzProject\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.deps.json
+D:\TSTUUzProject\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+D:\TSTUUzProject\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.dll
+D:\TSTUUzProject\TSTUUzSolution\Entities\bin\Debug\net8.0\Entities.pdb
+D:\TSTUUzProject\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+D:\TSTUUzProject\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\TSTUUzProject\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+D:\TSTUUzProject\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+D:\TSTUUzProject\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+D:\TSTUUzProject\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+D:\TSTUUzProject\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.dll
+D:\TSTUUzProject\TSTUUzSolution\Entities\obj\Debug\net8.0\refint\Entities.dll
+D:\TSTUUzProject\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.pdb
+D:\TSTUUzProject\TSTUUzSolution\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+D:\TSTUUzProject\TSTUUzSolution\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\Admin\Desktop\Jasurbek\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Jasurbek\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Jasurbek\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Jasurbek\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Jasurbek\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Jasurbek\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\Jasurbek\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\Admin\Desktop\Jasurbek\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\Jasurbek\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\Admin\Desktop\Jasurbek\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+C:\Users\Admin\Desktop\Jasurbek\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\Jasurbek\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\Jasurbek\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Jasurbek\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\Admin\Desktop\PrentProject\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\Admin\Desktop\PrentProject\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+C:\Users\Admin\Desktop\PrentProject\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\PrentProject\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\PrentProject\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PrentProject\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\PrentProject\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PrentProject\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PrentProject\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PrentProject\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\PrentProject\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\Admin\Desktop\PrentProject\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\PrentProject\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+C:\Users\Admin\Desktop\PrentProject\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\Admin\Desktop\ParentProject\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\Users\Admin\Desktop\ParentProject\Entities\bin\Debug\net8.0\Entities.runtimeconfig.json
+C:\Users\Admin\Desktop\ParentProject\Entities\bin\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\ParentProject\Entities\bin\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\ParentProject\Entities\obj\Debug\net8.0\Entities.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ParentProject\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ParentProject\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ParentProject\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ParentProject\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ParentProject\Entities\obj\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\ParentProject\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\Users\Admin\Desktop\ParentProject\Entities\obj\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\ParentProject\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ParentProject\Entities\obj\Debug\net8.0\ref\Entities.dll

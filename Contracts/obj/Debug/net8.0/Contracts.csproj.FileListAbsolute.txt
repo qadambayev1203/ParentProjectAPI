@@ -1,0 +1,124 @@
+C:\Users\Admin\source\repos\TSTUUzSolution\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Users\Admin\source\repos\TSTUUzSolution\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Users\Admin\source\repos\TSTUUzSolution\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Users\Admin\source\repos\TSTUUzSolution\Contracts\bin\Debug\net8.0\Entities.dll
+C:\Users\Admin\source\repos\TSTUUzSolution\Contracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\Admin\source\repos\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Users\Admin\source\repos\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.csproj.CopyComplete
+C:\Users\Admin\source\repos\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Users\Admin\source\repos\TSTUUzSolution\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Users\Admin\source\repos\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Users\Admin\source\repos\TSTUUzSolution\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\bin\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.csproj.CopyComplete
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Users\Admin\Desktop\TSTUz backend\TSTUUzSolution\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\bin\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.csproj.CopyComplete
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Users\Admin\Desktop\TSTUUzSolution\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\bin\Debug\net8.0\Entities.dll
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.csproj.CopyComplete
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Users\huawei\Source\Repos\qadambayev1203\TSTUUzSolution\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+D:\TSTUUzProject\TSTUUzSolution\Contracts\bin\Debug\net8.0\Contracts.deps.json
+D:\TSTUUzProject\TSTUUzSolution\Contracts\bin\Debug\net8.0\Contracts.dll
+D:\TSTUUzProject\TSTUUzSolution\Contracts\bin\Debug\net8.0\Contracts.pdb
+D:\TSTUUzProject\TSTUUzSolution\Contracts\bin\Debug\net8.0\Entities.dll
+D:\TSTUUzProject\TSTUUzSolution\Contracts\bin\Debug\net8.0\Entities.pdb
+D:\TSTUUzProject\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+D:\TSTUUzProject\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\TSTUUzProject\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+D:\TSTUUzProject\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+D:\TSTUUzProject\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+D:\TSTUUzProject\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.sourcelink.json
+D:\TSTUUzProject\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.csproj.CopyComplete
+D:\TSTUUzProject\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.dll
+D:\TSTUUzProject\TSTUUzSolution\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+D:\TSTUUzProject\TSTUUzSolution\Contracts\obj\Debug\net8.0\Contracts.pdb
+D:\TSTUUzProject\TSTUUzSolution\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+C:\Users\Admin\Desktop\Jasurbek\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Users\Admin\Desktop\Jasurbek\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Users\Admin\Desktop\Jasurbek\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Users\Admin\Desktop\Jasurbek\Contracts\bin\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\Jasurbek\Contracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\Jasurbek\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Jasurbek\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Jasurbek\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Jasurbek\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Jasurbek\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Jasurbek\Contracts\obj\Debug\net8.0\Contracts.csproj.CopyComplete
+C:\Users\Admin\Desktop\Jasurbek\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Users\Admin\Desktop\Jasurbek\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Users\Admin\Desktop\Jasurbek\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Users\Admin\Desktop\Jasurbek\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+C:\Users\Admin\Desktop\PrentProject\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Users\Admin\Desktop\PrentProject\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Users\Admin\Desktop\PrentProject\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Users\Admin\Desktop\PrentProject\Contracts\bin\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\PrentProject\Contracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\PrentProject\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PrentProject\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\PrentProject\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\PrentProject\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Users\Admin\Desktop\PrentProject\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PrentProject\Contracts\obj\Debug\net8.0\Contracts.csproj.CopyComplete
+C:\Users\Admin\Desktop\PrentProject\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Users\Admin\Desktop\PrentProject\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Users\Admin\Desktop\PrentProject\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Users\Admin\Desktop\PrentProject\Contracts\obj\Debug\net8.0\ref\Contracts.dll
+C:\Users\Admin\Desktop\ParentProject\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Users\Admin\Desktop\ParentProject\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Users\Admin\Desktop\ParentProject\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Users\Admin\Desktop\ParentProject\Contracts\bin\Debug\net8.0\Entities.dll
+C:\Users\Admin\Desktop\ParentProject\Contracts\bin\Debug\net8.0\Entities.pdb
+C:\Users\Admin\Desktop\ParentProject\Contracts\obj\Debug\net8.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\ParentProject\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ParentProject\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ParentProject\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ParentProject\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ParentProject\Contracts\obj\Debug\net8.0\Contracts.csproj.CopyComplete
+C:\Users\Admin\Desktop\ParentProject\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Users\Admin\Desktop\ParentProject\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Users\Admin\Desktop\ParentProject\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Users\Admin\Desktop\ParentProject\Contracts\obj\Debug\net8.0\ref\Contracts.dll

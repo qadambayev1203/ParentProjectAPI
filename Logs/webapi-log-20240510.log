@@ -1,0 +1,117 @@
+2024-05-10 14:35:13.901 +05:00  INF  User profile is available. Using 'C:\Users\Admin\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2024-05-10 14:35:14.029 +05:00  INF  Creating key {0f1a468d-b0cf-4e8e-9c7d-95451bd232f2} with creation date 2024-05-10 09:35:14Z, activation date 2024-05-10 09:35:13Z, and expiration date 2024-08-08 09:35:13Z.
+2024-05-10 14:35:14.035 +05:00  INF  Writing data to file 'C:\Users\Admin\AppData\Local\ASP.NET\DataProtection-Keys\key-0f1a468d-b0cf-4e8e-9c7d-95451bd232f2.xml'.
+2024-05-10 14:35:14.223 +05:00  INF  Application started. Press Ctrl+C to shut down.
+2024-05-10 14:35:14.223 +05:00  INF  Hosting environment: Development
+2024-05-10 14:35:14.223 +05:00  INF  Content root path: C:\Users\Admin\Desktop\TSTUUzSolution\TSTUWebAPI
+2024-05-10 14:35:14.234 +05:00  INF  Request starting HTTP/2 GET https://localhost:44332/swagger/index.html - null null
+2024-05-10 14:35:14.663 +05:00  INF  Request finished HTTP/2 GET https://localhost:44332/swagger/index.html - 200 null text/html;charset=utf-8 433.2021ms
+2024-05-10 14:35:14.770 +05:00  INF  Request starting HTTP/2 GET https://localhost:44332/_framework/aspnetcore-browser-refresh.js - null null
+2024-05-10 14:35:14.770 +05:00  INF  Request starting HTTP/2 GET https://localhost:44332/swagger/swagger-ui.css - null null
+2024-05-10 14:35:14.770 +05:00  INF  Request starting HTTP/2 GET https://localhost:44332/_vs/browserLink - null null
+2024-05-10 14:35:14.780 +05:00  INF  Request starting HTTP/2 GET https://localhost:44332/swagger/swagger-ui-standalone-preset.js - null null
+2024-05-10 14:35:14.790 +05:00  INF  Request starting HTTP/2 GET https://localhost:44332/swagger/swagger-ui-bundle.js - null null
+2024-05-10 14:35:14.833 +05:00  INF  Request finished HTTP/2 GET https://localhost:44332/_framework/aspnetcore-browser-refresh.js - 200 13756 application/javascript; charset=utf-8 53.251ms
+2024-05-10 14:35:14.842 +05:00  INF  The file /swagger-ui.css was not modified
+2024-05-10 14:35:14.842 +05:00  INF  The file /swagger-ui-standalone-preset.js was not modified
+2024-05-10 14:35:14.842 +05:00  INF  The file /swagger-ui-bundle.js was not modified
+2024-05-10 14:35:14.844 +05:00  INF  Request finished HTTP/2 GET https://localhost:44332/swagger/swagger-ui.css - 304 null text/css 73.9036ms
+2024-05-10 14:35:14.844 +05:00  INF  Request finished HTTP/2 GET https://localhost:44332/swagger/swagger-ui-bundle.js - 304 null text/javascript 54.3362ms
+2024-05-10 14:35:14.845 +05:00  INF  Request finished HTTP/2 GET https://localhost:44332/swagger/swagger-ui-standalone-preset.js - 304 null text/javascript 64.8454ms
+2024-05-10 14:35:16.538 +05:00  INF  Request finished HTTP/2 GET https://localhost:44332/_vs/browserLink - 200 null text/javascript; charset=UTF-8 1767.4758ms
+2024-05-10 14:35:16.582 +05:00  INF  Request starting HTTP/2 GET https://localhost:44332/swagger/v1/swagger.json - null null
+2024-05-10 14:35:16.745 +05:00  INF  Request finished HTTP/2 GET https://localhost:44332/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 163.0189ms
+2024-05-10 14:35:41.048 +05:00  INF  Request starting HTTP/2 POST https://localhost:44332/api/user/login - application/json 43
+2024-05-10 14:35:41.236 +05:00  INF  Executing endpoint 'TSTUWebAPI.Controllers.UserController.LoginAsync (TSTUWebAPI)'
+2024-05-10 14:35:41.268 +05:00  INF  Route matched with {action = "Login", controller = "User"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.ActionResult`1[Entities.DTO.UserAuthInfoDTO]] LoginAsync(Entities.DTO.UserCredentials, System.Threading.CancellationToken) on controller TSTUWebAPI.Controllers.UserController (TSTUWebAPI).
+2024-05-10 14:35:43.654 +05:00  INF  Executed DbCommand (130ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE WHEN COUNT(*) = 0 THEN FALSE ELSE TRUE END
+FROM pg_class AS cls
+JOIN pg_namespace AS ns ON ns.oid = cls.relnamespace
+WHERE
+        cls.relkind IN ('r', 'v', 'm', 'f', 'p') AND
+        ns.nspname NOT IN ('pg_catalog', 'information_schema') AND
+        -- Exclude tables which are members of PG extensions
+        NOT EXISTS (
+            SELECT 1 FROM pg_depend WHERE
+                classid=(
+                    SELECT cls.oid
+                    FROM pg_class AS cls
+                             JOIN pg_namespace AS ns ON ns.oid = cls.relnamespace
+                    WHERE relname='pg_class' AND ns.nspname='pg_catalog'
+                ) AND
+                objid=cls.oid AND
+                deptype IN ('e', 'x')
+        )
+2024-05-10 14:35:44.273 +05:00  INF  Executed DbCommand (33ms) [Parameters=[@__login_0='?', @__password_1='?'], CommandType='"Text"', CommandTimeout='30']
+SELECT u.id, u.active, u.created_at, u.departament_id, u.email, u.login, u.password, u.person_id, u.removed, u.status_id, u.token, u.updated_at, u.user_type_id, u0.id, u0.status_id, u0.type
+FROM users_20ts24tu AS u
+LEFT JOIN statuses_20ts24tu AS s ON u.status_id = s.id
+LEFT JOIN user_types_20ts24tu AS u0 ON u.user_type_id = u0.id
+WHERE u.login = @__login_0 AND u.password = @__password_1 AND (s.status <> 'Deleted' OR s.status IS NULL)
+LIMIT 2
+2024-05-10 14:35:44.447 +05:00  INF  Get By Login and Password - User {"Login":"admin","Password":"X85cpohQrV+USeuUGKBe8qQ4PKBd1oT1MYOu8wOr2V4="}
+2024-05-10 14:35:44.483 +05:00  INF  Executing OkObjectResult, writing value of type 'Entities.DTO.UserAuthInfoDTO'.
+2024-05-10 14:35:44.489 +05:00  INF  Executed action TSTUWebAPI.Controllers.UserController.LoginAsync (TSTUWebAPI) in 3218.0826ms
+2024-05-10 14:35:44.490 +05:00  INF  Executed endpoint 'TSTUWebAPI.Controllers.UserController.LoginAsync (TSTUWebAPI)'
+2024-05-10 14:35:44.496 +05:00  INF  Request finished HTTP/2 POST https://localhost:44332/api/user/login - 200 null application/json; charset=utf-8 3447.9084ms
+2024-05-10 14:36:13.762 +05:00  INF  Request starting HTTP/2 GET https://localhost:44332/api/neighborhood/getallneighborhood - null null
+2024-05-10 14:36:13.816 +05:00  INF  Executing endpoint 'TSTUWebAPI.Controllers.NeighborhoodControllers.NeighborhoodController.GetAllNeighborhood (TSTUWebAPI)'
+2024-05-10 14:36:13.819 +05:00  INF  Route matched with {action = "GetAllNeighborhood", controller = "Neighborhood"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllNeighborhood(System.Nullable`1[System.Int32], Int32, Int32) on controller TSTUWebAPI.Controllers.NeighborhoodControllers.NeighborhoodController (TSTUWebAPI).
+2024-05-10 14:36:13.865 +05:00  INF  Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE WHEN COUNT(*) = 0 THEN FALSE ELSE TRUE END
+FROM pg_class AS cls
+JOIN pg_namespace AS ns ON ns.oid = cls.relnamespace
+WHERE
+        cls.relkind IN ('r', 'v', 'm', 'f', 'p') AND
+        ns.nspname NOT IN ('pg_catalog', 'information_schema') AND
+        -- Exclude tables which are members of PG extensions
+        NOT EXISTS (
+            SELECT 1 FROM pg_depend WHERE
+                classid=(
+                    SELECT cls.oid
+                    FROM pg_class AS cls
+                             JOIN pg_namespace AS ns ON ns.oid = cls.relnamespace
+                    WHERE relname='pg_class' AND ns.nspname='pg_catalog'
+                ) AND
+                objid=cls.oid AND
+                deptype IN ('e', 'x')
+        )
+2024-05-10 14:36:36.587 +05:00  INF  Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT n.id, n.district_id, n.status_id, n.title, s.id, s.is_deleted, s.status
+FROM neighborhoods_20ts24tu AS n
+LEFT JOIN statuses_20ts24tu AS s ON n.status_id = s.id
+2024-05-10 14:36:58.544 +05:00  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Entities.DTO.NeighborhoodsDTOS.NeighborhoodReadedDTO, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-10 14:36:58.546 +05:00  INF  Executed action TSTUWebAPI.Controllers.NeighborhoodControllers.NeighborhoodController.GetAllNeighborhood (TSTUWebAPI) in 44726.6153ms
+2024-05-10 14:36:58.546 +05:00  INF  Executed endpoint 'TSTUWebAPI.Controllers.NeighborhoodControllers.NeighborhoodController.GetAllNeighborhood (TSTUWebAPI)'
+2024-05-10 14:36:58.546 +05:00  INF  Request finished HTTP/2 GET https://localhost:44332/api/neighborhood/getallneighborhood - 200 null application/json; charset=utf-8 44784.4317ms
+2024-05-10 14:38:25.098 +05:00  INF  Request starting HTTP/2 GET https://localhost:44332/api/neighborhood/getallneighborhood - null null
+2024-05-10 14:38:25.104 +05:00  INF  Executing endpoint 'TSTUWebAPI.Controllers.NeighborhoodControllers.NeighborhoodController.GetAllNeighborhood (TSTUWebAPI)'
+2024-05-10 14:38:25.105 +05:00  INF  Route matched with {action = "GetAllNeighborhood", controller = "Neighborhood"}. Executing controller action with signature Microsoft.AspNetCore.Mvc.IActionResult GetAllNeighborhood(System.Nullable`1[System.Int32], Int32, Int32) on controller TSTUWebAPI.Controllers.NeighborhoodControllers.NeighborhoodController (TSTUWebAPI).
+2024-05-10 14:38:32.763 +05:00  INF  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE WHEN COUNT(*) = 0 THEN FALSE ELSE TRUE END
+FROM pg_class AS cls
+JOIN pg_namespace AS ns ON ns.oid = cls.relnamespace
+WHERE
+        cls.relkind IN ('r', 'v', 'm', 'f', 'p') AND
+        ns.nspname NOT IN ('pg_catalog', 'information_schema') AND
+        -- Exclude tables which are members of PG extensions
+        NOT EXISTS (
+            SELECT 1 FROM pg_depend WHERE
+                classid=(
+                    SELECT cls.oid
+                    FROM pg_class AS cls
+                             JOIN pg_namespace AS ns ON ns.oid = cls.relnamespace
+                    WHERE relname='pg_class' AND ns.nspname='pg_catalog'
+                ) AND
+                objid=cls.oid AND
+                deptype IN ('e', 'x')
+        )
+2024-05-10 14:38:48.411 +05:00  INF  Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT n.id, n.district_id, n.status_id, n.title, s.id, s.is_deleted, s.status
+FROM neighborhoods_20ts24tu AS n
+LEFT JOIN statuses_20ts24tu AS s ON n.status_id = s.id
+2024-05-10 14:39:17.793 +05:00  INF  Executing OkObjectResult, writing value of type 'System.Collections.Generic.List`1[[Entities.DTO.NeighborhoodsDTOS.NeighborhoodReadedDTO, Entities, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'.
+2024-05-10 14:39:17.836 +05:00  INF  Executed action TSTUWebAPI.Controllers.NeighborhoodControllers.NeighborhoodController.GetAllNeighborhood (TSTUWebAPI) in 52730.9605ms
+2024-05-10 14:39:17.836 +05:00  INF  Executed endpoint 'TSTUWebAPI.Controllers.NeighborhoodControllers.NeighborhoodController.GetAllNeighborhood (TSTUWebAPI)'
+2024-05-10 14:39:17.841 +05:00  INF  Request finished HTTP/2 GET https://localhost:44332/api/neighborhood/getallneighborhood - 200 null application/json; charset=utf-8 52743.2965ms
