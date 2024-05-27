@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9uCHlRBaaCoXTi9h9w8mExVSlIkoZK1KB+FuSPeBiozCiy5zIO73rYASFdtNatsuLBnbbW/AemEuzOd/1hOBtw==",
+  "dgSpecHash": "xTZ61jzogJ6FyRyasonjiLLmxOyB89KTISaoOiYMia660lKxU4EWdkPuEgEd87pONOa30zVzfzoEYYID2unglw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\ParentProject\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\automapper\\12.0.0\\automapper.12.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.0\\automapper.extensions.microsoft.dependencyinjection.12.0.0.nupkg.sha512",

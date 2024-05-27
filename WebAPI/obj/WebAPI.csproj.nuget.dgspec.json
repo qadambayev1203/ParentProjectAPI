@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\ParentProject\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\ParentProject\\Contracts\\Contracts.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Contracts\\Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ParentProject\\Contracts\\Contracts.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Contracts\\Contracts.csproj",
         "projectName": "Contracts",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\ParentProject\\Contracts\\Contracts.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Contracts\\Contracts.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\ParentProject\\Contracts\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -35,8 +35,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\ParentProject\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\ParentProject\\Entities\\Entities.csproj"
+              "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -70,14 +70,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\ParentProject\\Entities\\Entities.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ParentProject\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\ParentProject\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\ParentProject\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -180,14 +180,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\ParentProject\\Repository\\Repository.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ParentProject\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\ParentProject\\Repository\\Repository.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Repository\\Repository.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\ParentProject\\Repository\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -211,8 +211,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\ParentProject\\Contracts\\Contracts.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\ParentProject\\Contracts\\Contracts.csproj"
+              "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Contracts\\Contracts.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Contracts\\Contracts.csproj"
               }
             }
           }
@@ -246,14 +246,14 @@
         }
       }
     },
-    "C:\\Users\\Admin\\Desktop\\ParentProject\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\ParentProject\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\ParentProject\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\ParentProject\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -277,8 +277,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Admin\\Desktop\\ParentProject\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\Admin\\Desktop\\ParentProject\\Repository\\Repository.csproj"
+              "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\Admin\\Desktop\\Any\\ParentProject\\Repository\\Repository.csproj"
               }
             }
           }
